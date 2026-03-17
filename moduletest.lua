@@ -1,7 +1,3 @@
--- AdvancedSystems.lua
--- Single-file, modular systems for Roblox servers
--- Includes: EventBus, DataSerializer, LRU CacheManager, PlayerDataManager (with retries),
--- InventorySystem, LeaderboardManager, AntiCheat, and bootstrap.
 
 -- ============================================
 -- Module: EventBus (Observer pattern, safe firing)
